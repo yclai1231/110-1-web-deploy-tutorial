@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/110-1-web-deploy-tutorial/static/css/main.f3cf4c19.chunk.css",
+    "main.js": "/110-1-web-deploy-tutorial/static/js/main.0cef7311.chunk.js",
+    "main.js.map": "/110-1-web-deploy-tutorial/static/js/main.0cef7311.chunk.js.map",
+    "runtime-main.js": "/110-1-web-deploy-tutorial/static/js/runtime-main.e2e2fbca.js",
+    "runtime-main.js.map": "/110-1-web-deploy-tutorial/static/js/runtime-main.e2e2fbca.js.map",
+    "static/js/2.4f524c60.chunk.js": "/110-1-web-deploy-tutorial/static/js/2.4f524c60.chunk.js",
+    "static/js/2.4f524c60.chunk.js.map": "/110-1-web-deploy-tutorial/static/js/2.4f524c60.chunk.js.map",
+    "static/js/3.2ceb600d.chunk.js": "/110-1-web-deploy-tutorial/static/js/3.2ceb600d.chunk.js",
+    "static/js/3.2ceb600d.chunk.js.map": "/110-1-web-deploy-tutorial/static/js/3.2ceb600d.chunk.js.map",
+    "index.html": "/110-1-web-deploy-tutorial/index.html",
+    "static/css/main.f3cf4c19.chunk.css.map": "/110-1-web-deploy-tutorial/static/css/main.f3cf4c19.chunk.css.map",
+    "static/js/2.4f524c60.chunk.js.LICENSE.txt": "/110-1-web-deploy-tutorial/static/js/2.4f524c60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2e2fbca.js",
+    "static/js/2.4f524c60.chunk.js",
+    "static/css/main.f3cf4c19.chunk.css",
+    "static/js/main.0cef7311.chunk.js"
+  ]
+}
