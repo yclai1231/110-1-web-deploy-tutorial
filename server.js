@@ -8,7 +8,7 @@ import "dotenv-defaults/config.js";
 import path from "path";
 import { dirname } from "path";
 import { fileURLToPath } from "url";
-import wakeUpDyno from "./backend./route/wakeUpDyno.js"
+import wakeUpDyno from "./backend/route/wakeUpDyno.js"
 
 import db from "./backend/db.js";
 import Query from "./backend/resolvers/Query.js";
