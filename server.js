@@ -8,6 +8,7 @@ import "dotenv-defaults/config.js";
 import path from "path";
 import { dirname } from "path";
 import { fileURLToPath } from "url";
+import wakeUpDyno from "./backend./route/wakeUpDyno.js"
 
 import db from "./backend/db.js";
 import Query from "./backend/resolvers/Query.js";
@@ -53,4 +54,6 @@ mongo.connect();
 httpServer.listen(port, () => {
   console.log(`🚀 Server Ready at ${port}! 🚀`);
   console.log(`Graphql Port at ${port}${server.subscriptionsPath}`);
+  const DYNOURL = "http://wp1111deploy.herokuapp.com/"
+  wakeUpDyno(DYNOURL);
 });
